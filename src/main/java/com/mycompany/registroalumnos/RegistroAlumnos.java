@@ -14,10 +14,12 @@ public class RegistroAlumnos {
 
         String nombre = "Patrick";
         String curso = "Programación";
+        double notas = 20;
 
         System.out.println("===== REGISTRO DE ALUMNOS =====");
         System.out.println("Nombre: " + nombre);
         System.out.println("Curso: " + curso);
         System.out.println("Alumno registrado correctamente.");
+        System.out.println("nota:"+ notas);
     }
 }
