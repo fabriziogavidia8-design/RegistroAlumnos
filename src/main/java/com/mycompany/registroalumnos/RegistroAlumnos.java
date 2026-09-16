@@ -12,7 +12,7 @@ public class RegistroAlumnos {
 
    public static void main(String[] args) {
 
-        String nombre = "Patrick";
+        String nombre = "Patrick Fabrizio Garcia Gavidia";
         String curso = "Programación";
         double notas = 20;
 
